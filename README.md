@@ -8,7 +8,7 @@ This package provides a universal compiler written in Go. Features:
 
 ### Usage
 
-A YUC installation consists of single binary, "yuc". Run "yuc -h" to get started.
+A YUC installation consists of a single binary, "yuc". Run "yuc -h" to get started.
 
 #### Caveats
 
